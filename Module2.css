@@ -1,0 +1,31 @@
+h1{
+	font-family: Garamond, serif;
+	font-size: 28px;
+	letter-spacing: 6px;
+	word-spacing: 1.6px;
+	color:#ffefe6;
+	font-weight: 400;
+	text-decoration: overline solid rgb(68, 68, 68);
+	font-style: italic;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	text-align: center;
+	background-color: #a688c2;
+	padding:20px;
+}
+
+body{
+	background-color: #171716
+}
+
+.button{ /*code frm w3schools*/
+  background-color: #e87c74; /* Green */
+  border: none;
+  color: white;
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 30px;
+}
